@@ -1,1 +1,6 @@
 
+Scripts used to manage backend of application, including initial database population. 
+
+
+db_partitioner.py is responsible for caching relevant news queries. 
+
