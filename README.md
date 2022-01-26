@@ -1,6 +1,7 @@
 # SumTimeSeries
 
-A full-stack web application for identifying and describing events in time series data. Written in Python!
+A full-stack Python web application for identifying and describing events in time series data.
+Deployed via Amazon Web Services (AWS). Utilizes Sklearn and Pytorch libraries and MySQL database.
 
 Launched application can be found at app.sumtimeseries.com.
 
