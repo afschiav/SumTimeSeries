@@ -1,0 +1,1 @@
+streamlit yfinance pandas_market_calendars datetime plotly lexrank sklearn pymysql
